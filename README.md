@@ -1,1 +1,1 @@
-# SHAF-Medical-Encyclopedia-App
+# SHAF-Medical-Encyclopedia is desktop application based on c#
